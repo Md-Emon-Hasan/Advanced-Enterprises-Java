@@ -1,0 +1,6 @@
+model\Task.class
+client\TaskClient.class
+Task.class
+store\TaskStorage.class
+client\SwingTaskClient.class
+server\TaskServer.class
